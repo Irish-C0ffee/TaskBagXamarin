@@ -7,7 +7,7 @@
                  IconImageSource="icon_save.png"
                  Order="Primary"
                  Priority="0" />
-        <ToolbarItem Text="Удалить" Clicked="DeleteNote"
+        <ToolbarItem Text="Удалить"  Clicked="DeleteNote"  
                  IconImageSource="icon_delete.png"
                  Order="Primary"
                  Priority="0" />
