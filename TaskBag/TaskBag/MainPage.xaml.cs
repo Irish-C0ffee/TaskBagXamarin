@@ -37,5 +37,10 @@ namespace TaskBag
             notePage.BindingContext = note;
             await Navigation.PushAsync(notePage);
         }
+        private async void Geolacation(object sender, EventArgs e)
+        {
+            geolocationXaml geolocation = new geolocationXaml();
+            await Navigation.PushAsync(geolocation);
+        }
     }
 }

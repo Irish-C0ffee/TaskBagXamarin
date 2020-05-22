@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBag.Android", "TaskBag\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBag.iOS", "TaskBag\TaskBag.iOS\TaskBag.iOS.csproj", "{BC521348-78E3-40C1-9C28-8783F876B135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBag", "TaskBag\TaskBag\TaskBag.csproj", "{AFDCDBA6-BD25-4771-A456-475E00EDB4A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskBag", "TaskBag\TaskBag\TaskBag.csproj", "{AFDCDBA6-BD25-4771-A456-475E00EDB4A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

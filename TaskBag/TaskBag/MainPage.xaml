@@ -14,7 +14,7 @@
         <ToolbarItem Text="Вход"  
                  Order="Secondary"
                  Priority="0" />
-        <ToolbarItem Text="Определение геолокации"  
+        <ToolbarItem Text="Определение геолокации"  Clicked="Geolacation" 
                  Order="Secondary"
                  Priority="0" />
         <ToolbarItem Text="Удалить все"  
