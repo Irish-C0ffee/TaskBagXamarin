@@ -16,5 +16,9 @@ namespace TaskBag
         {
             InitializeComponent();
         }
+        private void LoginClicked(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

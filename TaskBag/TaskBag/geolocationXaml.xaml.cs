@@ -18,7 +18,7 @@ namespace TaskBag
             Map map = new Map();
             Content = map;
         }
-        private  async void button_push(object sender, System.EventArgs e)
+        private void button_push(object sender, System.EventArgs e)
         {
             
         }

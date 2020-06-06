@@ -4,7 +4,7 @@
              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="TaskBag.geolocationXaml" Title="TaskBag">
     <maps:Map x:Name="map"
-                  MapClicked="OnMapClicked" />
+                   />
     <ContentPage.Content>
         <StackLayout>
             <Label x:Name="label1" Text="Welcome to Xamarin.Forms!"
